@@ -3,7 +3,13 @@
 > An end-to-end data analytics project combining SQL, Python, and interactive dashboards
 > to extract actionable insights from 225,000+ e-commerce transactions spanning 2009–2011.
 
-## 🚀 Quick Start
+## 🚀 Live Demo
+
+**[https://riosbravofer-png-retail-bi-dashboard-app-zkynbp.streamlit.app](https://riosbravofer-png-retail-bi-dashboard-app-zkynbp.streamlit.app)**
+
+---
+
+## ⚡ Quick Start (run locally)
 
 ```bash
 # 1. Clone & enter the project
